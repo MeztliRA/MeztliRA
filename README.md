@@ -2,7 +2,7 @@
 
 ![Meztli's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeztliRA&show_icons=true&theme=vue-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeztliRA&hide=shell,EmacsLisp)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeztliRA&hide=shell,emacsLisp)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MeztliRA/MeztliRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
